@@ -1,5 +1,5 @@
 <div align="center">
-<h3>rofi-bluetooth</h3>
+<h3>wofi-bluetooth</h3>
 <img src="https://github.com/ClydeDroid/rofi-bluetooth/raw/master/.meta/menu.gif">
 
 `bluetoothctl` `wofi` `dmenu`
