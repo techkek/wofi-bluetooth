@@ -6,6 +6,7 @@
 
 </div>
 A fork of rofi-bluetooth but for wofi.
+
 ## Installation
 
 1. Install dependencies: wofi and bluetoothctl (provided by `bluez-utils` in Arch)
